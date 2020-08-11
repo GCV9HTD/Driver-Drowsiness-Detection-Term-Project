@@ -10,4 +10,4 @@ Development of a robust and practical drowsiness detection system is a crucial s
 ### Work Done:
 <img src="https://github.com/mahmutaktas/Driver-Drowsiness-Detection-Term-Project/blob/master/gantt-chart.png" width="500" height="300" />
 **Next term we will be developing these things:** 
-<img src="https://github.com/mahmutaktas/Driver-Drowsiness-Detection-Term-Project/blob/master/next-term.png" width="500" height="300" />  
+<img src="https://github.com/mahmutaktas/Driver-Drowsiness-Detection-Term-Project/blob/master/next-term.PNG" width="500" height="300" />  
